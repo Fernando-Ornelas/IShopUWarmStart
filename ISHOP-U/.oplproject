@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="ISHOP-U" category="opl">
+            			
+            <ref name="ISHOP-U.mod" type="model">
+			</ref>
+            			
+            <ref name="ISHOP-U.ops" type="setting">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
