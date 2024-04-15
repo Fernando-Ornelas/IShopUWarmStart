@@ -7,7 +7,7 @@ zzzz = {Short, Medium, Large}
 zz = {S, M, L}
 yyy = {GA, CGA, WCA}
 
-For the development of this paper, the following uniform instances were used:
+For the development of this chapter, the following uniform instances were used:
 
 Short (10 products and 25 stores)
 Medium (25 products and 50 stores)
